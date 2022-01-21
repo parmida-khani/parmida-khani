@@ -8,7 +8,7 @@
 const Parmida = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, c++, Python, Java],
-  tools: [Angular, React, Redux, Node],
+  tools: [Angular, React, Redux, Node. Express],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
